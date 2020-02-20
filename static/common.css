@@ -1,0 +1,13 @@
+.icon {
+  width: 30px;
+  height: 30px;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+.el-table thead th,
+.el-table thead tr {
+  background: #f5f7fa;
+  color: #333;
+}
